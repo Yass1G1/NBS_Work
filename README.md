@@ -1,2 +1,2 @@
 # NBS_Work
-All the scripts I did during my first internship at NeoByteServices
+All the stuff I've done during my first internship at NeoByteServices
